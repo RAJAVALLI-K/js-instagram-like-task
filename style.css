@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.instagram {
+    padding: 30px;
+}
+
+.like p {
+    padding: 10px 0px;
+}
+
+.fa-solid {
+    color: red;
+    display: none;
+}
+
+i {
+    font-size: 20px;
+}
